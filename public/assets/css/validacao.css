@@ -1,0 +1,11 @@
+label {
+    display: block;
+    margin-top: 10px;
+}
+.error {
+    float: none;
+    color: red;
+    margin: 0 .5em 0 0;
+    vertical-align: top;
+
+}
