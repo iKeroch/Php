@@ -1,6 +1,5 @@
-# PHP
 #
-#  Avaliação 2 - Prática - 431
+#  Avaliação 2 - Prática - AW2 - 431
 #
 # Gestão de Usuários PHP
 #
@@ -15,5 +14,3 @@
 # senha: 12345678
 #
 #
-# PHP
-# PHP
